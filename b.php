@@ -8,6 +8,4 @@ class b
 }
 include 'c.php';
 echo $b;
-echo $b;
-echo $b;
 ?>
