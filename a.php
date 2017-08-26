@@ -9,4 +9,5 @@ class a
 echo $a;
 echo $a;
 echo '这是我通过git命令行工具添加的';
+echo '第三方斯蒂芬斯蒂芬';
 ?>
